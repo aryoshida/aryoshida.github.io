@@ -96,10 +96,10 @@ h1 {
 /*  portfolio settings  */
 
 .portfolio {
-    background-color: lightgrey;
+    background-color: darkgray;
     width: 960px;
-    padding: 0px 30px;
-    margin: 30px 0px;
+    padding: 30px 30px;
+    margin: 30px 30px;
     border: 1px solid grey;    
 }
 
@@ -108,16 +108,20 @@ h1 {
     color: white;
     display: inline-block;
     width: 200px;
-    height: 200px;
+    height: 190px;
     margin: 30px;
 }
 
 .card-body {
     background-color: rgb(18, 114, 117);
-    padding: 13px;
+    padding: 10px;
     text-align: center;
 }
 
 #portfolioImages{
     height: 150px;
+}
+
+a{
+    color: black;
 }
